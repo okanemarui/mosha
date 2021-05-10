@@ -10,7 +10,7 @@ a{
 
 #A {
   background-size: cover;
-  background-image: url("../../image/mosha_Aonokensetu/background.png");
+  background-image: url("./background.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 80vh;
@@ -42,7 +42,6 @@ a{
   height: 60px;
   left: 50px;
   top: 30px;
-  background: url(.png);
   border-radius: 0px;
 }
 

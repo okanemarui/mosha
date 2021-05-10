@@ -1,0 +1,552 @@
+
+
+ul {
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+#A {
+  background-size: cover;
+  background-image: url("../../image/mosha_Aonokensetu/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 80vh;
+  position: relative;
+}
+
+#A a{
+  color:black;
+}
+
+#A .center h1{
+  position: absolute;
+  width: 532px;
+  height: 58px;
+  left: 334px;
+  top: 320px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #000000;
+}
+
+#A .top img{
+  position: absolute;
+  width: 139px;
+  height: 60px;
+  left: 50px;
+  top: 30px;
+  background: url(.png);
+  border-radius: 0px;
+}
+
+#A ul li a:hover{
+  color:rgb(0,0,0,.5);
+}
+
+#A a img:hover{
+  opacity: 0.5;
+}
+
+#A ul .a{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 616px;
+  top: 49px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#A ul .b{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 748px;
+  top: 49px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#A ul .c{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 880px;
+  top: 49px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#A ul .d{
+  position: absolute;
+  width: 108px;
+  height: 22px;
+  left: 1012px;
+  top: 49px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#B h2{
+  position: absolute;
+  width: 155px;
+  height: 46px;
+  left: 523px;
+  top: 729px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  line-height: 46px;
+  text-align: center;
+  color: #000000;
+}
+
+#B .aa .a{
+  position: absolute;
+  width: 90px;
+  height: 22px;
+  left: 250px;
+  top: 864px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+
+  padding-bottom: 35px;
+  border-bottom: 1px solid black;
+  width:700px;
+}
+
+#B .aa .b{
+  position: absolute;
+  width: 44px;
+  height: 14px;
+  left: 379px;
+  top: 870px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  color: #000000;
+
+  border: 1px solid #000000;
+  border-radius: 0px;
+  padding:5px 9px 6px 9px;
+}
+
+#B .aa .c{
+  position: absolute;
+  width: 252px;
+  height: 22px;
+  left: 462px;
+  top: 864px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#B .bb .a{
+  position: absolute;
+  width: 90px;
+  height: 22px;
+  left: 250px;
+  top: 950px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+
+  padding-bottom: 35px;
+  border-bottom: 1px solid black;
+  width:700px;
+}
+
+#B .bb .b{
+  position: absolute;
+  width: 44px;
+  height: 14px;
+  left: 379px;
+  top: 956px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  color: #000000;
+
+  border: 1px solid #000000;
+  border-radius: 0px;
+  padding:5px 9px 6px 9px;
+}
+
+#B .bb .c{
+  position: absolute;
+  width: 335px;
+  height: 22px;
+  left: 462px;
+  top: 950px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+
+#B .cc .a{
+  position: absolute;
+  width: 90px;
+  height: 22px;
+  left: 250px;
+  top: 1036px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+
+  padding-bottom: 35px;
+  border-bottom: 1px solid black;
+  width:700px;
+}
+
+#B .cc .b{
+  position: absolute;
+  width: 44px;
+  height: 14px;
+  left: 379px;
+  top: 1042px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  color: #000000;
+
+  border: 1px solid #000000;
+  border-radius: 0px;
+  padding:5px 9px 6px 9px;
+}
+
+#B .cc .c{
+  position: absolute;
+  width: 252px;
+  height: 22px;
+  left: 462px;
+  top: 1036px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+
+}
+
+#C h2{
+  position: absolute;
+  width: 152px;
+  height: 46px;
+  left: 524px;
+  top: 1272px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 37px;
+  line-height: 46px;
+  text-align: center;
+  color: #000000;
+}
+
+#C .left .img1{
+  position: absolute;
+  width: 430px;
+  height: 280px;
+  left: 110px;
+  top: 1408px;
+  border-radius: 0px;
+}
+
+#C .left .a{
+  position: absolute;
+  width: 164px;
+  height: 29px;
+  left: 243px;
+  top: 1717px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
+
+#C .left .b{
+  position: absolute;
+  width: 42px;
+  height: 17px;
+  left: 304px;
+  top: 1761px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 17px;
+  text-align: center;
+  color: #000000;
+}
+
+#C .left .img2{
+  position: absolute;
+  width: 300px;
+  height: 47px;
+  left: 175px;
+  top: 1792px;
+  border-radius: 0px;
+}
+
+#C .right .img1{
+  position: absolute;
+  width: 430px;
+  height: 280px;
+  left: 660px;
+  top: 1408px;
+  border-radius: 0px;
+}
+
+#C .right .a{
+  position: absolute;
+  width: 125px;
+  height: 29px;
+  left: 813px;
+  top: 1717px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
+
+#C .right .b{
+  position: absolute;
+  width: 42px;
+  height: 17px;
+  left: 854px;
+  top: 1761px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 17px;
+  text-align: center;
+  color: #000000;
+
+}
+
+#C .right .img2{
+  position: absolute;
+  width: 300px;
+  height: 47px;
+  left: 725px;
+  top: 1792px;
+  border-radius: 0px;
+}
+
+#D h3{
+  position: absolute;
+  width: 120px;
+  height: 24px;
+  left: 540px;
+  top: 1932px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+
+  border: 1px solid #000000;
+  border-radius: 0px;
+  padding: 13px 41px 13px 41px;
+
+}
+
+#D h3 a:hover{
+  color: rgb(0,0,0,.5);
+  border-color: red;
+}
+
+#D h3:hover{
+  border-color: rgb(0,0,0,.5);
+}
+
+#D h3 a{
+  color: black;
+}
+
+#D .left img{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 0px;
+  top: 2149px;
+  border-radius: 0px;
+}
+
+#D .center img{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 400px;
+  top: 2149px;
+  border-radius: 0px;
+}
+
+#D .right img{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 800px;
+  top: 2149px;
+  border-radius: 0px;
+}
+
+#D a img:hover{
+  opacity: 0.5;
+}
+
+
+#footer{
+  position: absolute;
+  width: 1200px;
+  height: 154px;
+  left: 0px;
+  top: 2549px;
+  background: #000000;
+  border-radius: 0px;
+}
+
+#footer img{
+  position: absolute;
+  width: 95px;
+  height: 40px;
+  left: 50px;
+  top: 39px;
+  border-radius: 0px;
+}
+
+#footer ul .a{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 616px;
+  top: 39px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+
+#footer ul .b{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 748px;
+  top: 39px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+
+#footer ul .c{
+  position: absolute;
+  width: 72px;
+  height: 22px;
+  left: 880px;
+  top: 39px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+
+#footer ul .d{
+  position: absolute;
+  width: 108px;
+  height: 22px;
+  left: 1012px;
+  top: 39px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+
+#footer a{
+  color: #FFFFFF;
+}
+
+#footer ul li a:hover{
+  color: rgb(255,255,255,.5);
+}
+
+#footer p{
+  position: absolute;
+  width: 194px;
+  height: 15px;
+  left: 503px;
+  top: 130px;
+  font-family: Yu Mincho;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 14px;
+  text-align: center;
+  color: #FFFFFF;
+}
